@@ -1,0 +1,10 @@
+pandas
+numpy
+
+#statsplotly
+#fsspec
+
+scikit-learn
+
+tensorflow
+

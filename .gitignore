@@ -1,0 +1,10 @@
+/data
+/training_models_logs
+crypto_price_prediction.txt
+crypto_price_prediction_BTCUSDT.ipynb
+crypto_price_prediction_BTCUSDT1.ipynb
+crypto_price_prediction_BTCUSDT2.ipynb
+crypto_price_prediction_BTCUSDT_gru_only.html
+utility.py
+enums.py
+download-kline.py
